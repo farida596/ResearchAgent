@@ -2,11 +2,9 @@
 
 A LangGraph-powered research assistant that combines multi-source retrieval, hybrid ranking, iterative evidence gathering, and YouTube transcript analysis.
 
-> **Notebook intentionally not included in this repository template.** Add your personally verified, working Google Colab notebook to `notebooks/` before publishing. This keeps the repository aligned with the exact version you tested yourself.
-
 ## Features
 
-- **Agent orchestration:** LangGraph ReAct agent chooses the appropriate research tool for a request.
+- **fAgent orchestration:** LangGraph ReAct agent chooses the appropriate research tool for a request.
 - **Multi-source research:** optional Tavily web search, ArXiv academic search, and Wikipedia background retrieval.
 - **Query expansion:** turns a broad research question into focused subqueries.
 - **Parallel retrieval:** queries configured sources concurrently.
