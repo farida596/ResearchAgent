@@ -1,0 +1,23 @@
+# Core agent and orchestration
+langchain
+langchain-core
+langgraph
+langchain-groq
+langchain-community
+
+# Retrieval sources
+langchain-tavily
+arxiv
+wikipedia
+
+# YouTube captions
+youtube-transcript-api
+
+# Ranking and embeddings
+numpy
+rank-bm25
+sentence-transformers
+scikit-learn
+
+# Notebook / display support
+ipython
